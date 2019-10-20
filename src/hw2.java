@@ -28,6 +28,7 @@ public class hw2 {
         int column;
         System.out.println("Enter column: " + column);
         column = input2.nextInt();
+        int kkk;
 
 
         //int[row][column]numbers = int[][];
