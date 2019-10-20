@@ -57,6 +57,7 @@ public class hw2 {
            }
 
 
+
        } while (numbers[x][y] != numbers[row][column]);{
 
             numbers[row][column] = "x";
